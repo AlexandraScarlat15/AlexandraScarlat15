@@ -1,16 +1,32 @@
-## Hi there 👋
+# Alexandra Scarlat
 
-<!--
-**AlexandraScarlat15/AlexandraScarlat15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student interested in computer vision, remote sensing, and applied machine learning.
 
-Here are some ideas to get you started:
+I am currently working on a bachelor thesis focused on agricultural crop segmentation from Sentinel-2 satellite imagery using EuroCrops-based masks and U-Net-based segmentation models. My work includes dataset generation, preprocessing, image-mask pair creation, and model experimentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main interests
+
+- Computer Vision
+- Remote Sensing
+- Image Processing
+- Machine Learning
+- Semantic Segmentation
+- Satellite Imagery Analysis
+
+## Technologies and tools
+
+- Python
+- PyTorch
+- OpenCV
+- C++
+- C#
+- Git and GitHub
+- GitHub Projects
+- ESA SNAP
+- Copernicus data access
+
+## Current focus
+
+I am currently focused on building practical AI and image analysis workflows using real-world data, with a particular interest in satellite imagery and agricultural applications.
+
+Some of my current research and bachelor thesis work is kept private, but I am continuously improving my public portfolio and technical projects.
