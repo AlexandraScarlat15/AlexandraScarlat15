@@ -1,33 +1,49 @@
 # Alexandra Scarlat
 
-Final-year Computer Science student interested in computer vision, remote sensing, and applied machine learning.
+Computer Science graduate with a background in applied AI, computer vision, remote sensing, and data pipelines.
 
-I am currently working on a bachelor thesis focused on agricultural crop segmentation from Sentinel-2 satellite imagery using EuroCrops-based masks and U-Net-based segmentation models.
+My main academic and research project focused on agricultural crop segmentation from Sentinel-2 satellite imagery, using EuroCrops parcel annotations and semantic segmentation models.
 
-My work involves dataset generation, preprocessing, image-mask pair creation, and model experimentation for satellite image analysis.
+The project involved dataset generation, preprocessing, image-mask pair creation, U-Net and Random Forest model evaluation, and generalization testing on independent datasets. The bachelor’s thesis received the highest possible mark and the Special Prize at the Student Scientific Circles Session, May 2026. The work was further extended into a scientific manuscript submitted for peer review.
 
 ## Main interests
 
-- Computer Vision
-- Remote Sensing
-- Image Processing
-- Machine Learning
-- Semantic Segmentation
-- Satellite Imagery Analysis
+* Computer Vision
+* Remote Sensing
+* Image Processing
+* Machine Learning
+* Semantic Segmentation
+* Data Pipelines
+* Applied AI
 
 ## Technologies and tools
 
-- Python
-- PyTorch
-- OpenCV
-- C++
-- C#
-- Git and GitHub
-- ESA SNAP
-- Copernicus data access
+* Python
+* PyTorch
+* OpenCV
+* C++
+* C#
+* Git and GitHub
+* ESA SNAP
+* Copernicus data access
+
+## Featured project
+
+### Agricultural Crop Segmentation from Sentinel-2 Imagery
+
+For my bachelor's thesis, I developed an end-to-end pipeline for transforming Sentinel-2 imagery and EuroCrops parcel annotations into multispectral datasets for semantic segmentation.
+
+The project included:
+
+* processing Sentinel-2 satellite imagery;
+* working with EuroCrops parcel annotations;
+* generating image-mask pairs for semantic segmentation;
+* creating and curating a dataset of over 67,000 samples;
+* training and evaluating U-Net and Random Forest models;
+* testing model generalization on independent datasets.
+
+The thesis received the highest possible mark and was awarded the Special Prize at the Student Scientific Circles Session, May 2026. The work was later extended into a scientific manuscript submitted for peer review.
 
 ## Current focus
 
-I am currently focused on practical AI and image analysis workflows using real-world satellite data.
-
-Some of my research and bachelor thesis work is kept private, but my GitHub activity reflects my ongoing academic, personal, and team-based development work.
+I am interested in applied AI, computer vision, data-driven software development, and research-oriented projects connected to real-world problems.
